@@ -1,8 +1,11 @@
 ﻿YOLOv8 segmentation model
 
+
 Building-detection-dataset should be annotated in YOLOv8 format
 
-Put your dataset into the 'datasets' directory
+
+Put your dataset into the 'datasets' directory in the root directory
+
 The next folders should be in your datasets directory:
 * test
 * train
