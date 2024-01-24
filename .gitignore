@@ -1,0 +1,16 @@
+datasets/
+runs/
+buildetect/
+yolov8n-seg.pt
+data.yaml
+.ipynb_checkpoints
+satellite-imagery-downloader/
+
+model_train/runs
+model_train/ESRGAN.tflite
+model_train/Untitled3.ipynb
+model_train/Untitled.ipynb
+model_train/Untitled1.ipynb
+model_train/Untitled2.ipynb
+model_train/Untitled4.ipynb
+model_train/yolov8n-seg.pt
